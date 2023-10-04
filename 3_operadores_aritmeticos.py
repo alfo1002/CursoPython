@@ -1,6 +1,6 @@
 #Operadores Aritméticos en Python
 
-a=10
+a=11
 b=5
 
 #suma
@@ -16,9 +16,9 @@ b=5
 #resultado = a//b
 
 #modulo
-#resultado = a % b
+resultado = a % b
 
 #a = a * 2
-a *= 2
+#a *= 2
 
-print(a)
+print(resultado)
